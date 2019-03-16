@@ -1,5 +1,5 @@
 /*Exercicio 3
-aça um programa que leia o nome de uma pessoa e depois
+Faça um programa que leia o nome de uma pessoa e depois
 apresente uma mensagem informando qual foi o nome digitado. */
 
 #include<stdio.h>
