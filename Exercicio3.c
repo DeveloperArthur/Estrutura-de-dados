@@ -1,5 +1,5 @@
 /*Exercicio 3
-aça um programa que leia o nome de uma pessoa e depois
+aÃ§a um programa que leia o nome de uma pessoa e depois
 apresente uma mensagem informando qual foi o nome digitado. */
 
 #include<stdio.h>
@@ -9,7 +9,8 @@ apresente uma mensagem informando qual foi o nome digitado. */
 int main(){
 	char nome[20];
 	printf("Digite seu nome: ");
-	scanf("%s", &nome);
+	fflush(stdin);
+	gets(nome);
 	printf("Nome digitado: %s", nome);
 }
 
