@@ -1,6 +1,6 @@
 /*Exercicio 2
-Faça um programa no qual o usuário digite 6 números reais em uma matriz 
-com 3 linhas e 2 colunas e depois simplesmente imprima os números armazenados na matriz.*/
+FaÃ§a um programa no qual o usuÃ¡rio digite 6 nÃºmeros reais em uma matriz 
+com 3 linhas e 2 colunas e depois simplesmente imprima os nÃºmeros armazenados na matriz.*/
 
 #include<stdio.h>
 #include<stdlib.h>
