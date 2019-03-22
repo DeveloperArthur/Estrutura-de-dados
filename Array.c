@@ -1,6 +1,6 @@
 /*Exercicio 1
-Faça um programa no qual o usuário digite 5 números inteiros 
-em um vetor e depois simplesmente imprima os números armazenados no vetor.*/
+FaÃ§a um programa no qual o usuÃ¡rio digite 5 nÃºmeros inteiros 
+em um vetor e depois simplesmente imprima os nÃºmeros armazenados no vetor.*/
 
 #include<stdio.h>
 #include<stdlib.h>
