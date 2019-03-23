@@ -1,8 +1,7 @@
 /*
-Faça um programa no qual o usuário digite 5 números 
-em um vetor e depois o usuário digite um número para poder buscar no vetor. 
-O programa deve informar se o número existe ou não no vetor. Caso o número exista o 
-programa deve informar em qual índice o número foi encontrado.
+FaÃ§a um programa no qual o usuÃ¡rio digite 5 nÃºmeros em um vetor e 
+depois informe um nÃºmero para ser ocultado. O programa deverÃ¡ exibir todos 
+os nÃºmeros digitados, exceto o nÃºmero que o usuÃ¡rio pediu para nÃ£o ser exibido.
 */
 
 #include<stdio.h>
