@@ -1,5 +1,5 @@
 /*
-Faça um programa um jogo da forca em linguagem C
+FaÃ§a um programa um jogo da forca em linguagem C
 */
 
 #include<stdio.h>
