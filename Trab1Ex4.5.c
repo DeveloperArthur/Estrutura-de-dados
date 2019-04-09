@@ -1,14 +1,14 @@
 
-/*Faça um programa no qual o usuário digite 5 números em 
-um vetor e depois realize a busca de um determinado número. 
-Se o número não existir no vetor o usuário deverá digitar outro número. 
-Isso se repetirá até o usuário digitar um número presente no vetor. 
-O programa precisa exibir uma mensagem informando que o número foi encontrado 
-e o números de vezes que ele aparece no vetor.
+/*FaÃ§a um programa no qual o usuÃ¡rio digite 5 nÃºmeros em 
+um vetor e depois realize a busca de um determinado nÃºmero. 
+Se o nÃºmero nÃ£o existir no vetor o usuÃ¡rio deverÃ¡ digitar outro nÃºmero. 
+Isso se repetirÃ¡ atÃ© o usuÃ¡rio digitar um nÃºmero presente no vetor. 
+O programa precisa exibir uma mensagem informando que o nÃºmero foi encontrado 
+e o nÃºmeros de vezes que ele aparece no vetor.
 Exemplo: 
 Digitou: 5, 4, 5, 9, 1
 Buscar: 5 
-“Foram encontrar 2 ocorrências do número 5 no vetor!”
+â€œForam encontrar 2 ocorrÃªncias do nÃºmero 5 no vetor!â€
 */
 
 #include <stdio.h>
@@ -34,7 +34,7 @@ int main(){
 		}
 	
 		if(cont>=1){
-	    	printf("\nForam encontrados %i ocorrências do número %i no array!", cont, numero);
+	    	printf("\nForam encontrados %i ocorrÃªncias do nÃºmero %i no array!", cont, numero);
 	    	break;
 		}else{
 	    	printf("\nNumero nao existente, por favor digite outro numero: ");
