@@ -1,7 +1,7 @@
-/*FaÁa um programa que receba um nome e exiba ao inverso. 
+/*Fa√ßa um programa que receba um nome e exiba ao inverso. 
 Exemplo:
-Usu·rio digitou ìjo„oî
-O programa exibe o„oj
+Usu√°rio digitou ‚Äújo√£o‚Äù
+O programa exibe o√£oj
 */
 
 #include<stdio.h>
