@@ -1,5 +1,5 @@
-/*FaÁa um programa que o usu·rio digite 
-um nome È o programa informa quantas 
+/*Fa√ßa um programa que o usu√°rio digite 
+um nome √© o programa informa quantas 
 vogais tem o nome
 */
 
